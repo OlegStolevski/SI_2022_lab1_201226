@@ -3,3 +3,4 @@ mleko x3
 sok x2
 jabolko x2
 chokolado x5
+nescaffe x3
